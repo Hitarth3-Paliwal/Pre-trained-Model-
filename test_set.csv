@@ -1,0 +1,18 @@
+chan_id,spacecraft,anomaly_sequences,class,num_values,primary_class
+F-1,SMAP,"[[5392, 5492]]",[point],8584,point
+P-1,SMAP,"[[2149, 2349], [4536, 4844], [3539, 3779]]","[contextual, contextual, contextual]",8505,contextual
+A-2,SMAP,"[[4450, 4560]]",[contextual],7914,contextual
+P-4,SMAP,"[[950, 1080], [2150, 2350], [4770, 4880]]","[point, point, point]",7783,point
+P-3,SMAP,"[[5401, 6736]]",[point],8493,point
+D-6,SMAP,"[[4870, 4950]]",[point],7884,point
+E-9,SMAP,"[[5550, 5900]]",[point],8302,point
+A-9,SMAP,"[[4569, 8433]]",[contextual],8434,contextual
+E-3,SMAP,"[[5094, 8306]]",[point],8307,point
+E-11,SMAP,"[[5000, 5050], [5614, 5857]]","[contextual, contextual]",8514,contextual
+A-7,SMAP,"[[6200, 8600]]",[contextual],8631,contextual
+T-1,SMAP,"[[2399, 3898], [6550, 6585]]","[point, contextual]",8612,point
+C-2,MSL,"[[290, 390], [1540, 1575]]","[point, contextual]",2051,point
+D-8,SMAP,"[[4370, 4420]]",[point],7874,point
+T-12,MSL,"[[630, 750]]",[contextual],2430,contextual
+P-7,SMAP,"[[4950, 6600]]",[contextual],8071,contextual
+P-14,MSL,"[[4575, 4755]]",[point],6100,point

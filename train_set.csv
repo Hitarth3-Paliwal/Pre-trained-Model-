@@ -1,0 +1,49 @@
+chan_id,spacecraft,anomaly_sequences,class,num_values,primary_class
+F-3,SMAP,"[[5600, 5640]]",[contextual],8376,contextual
+A-6,SMAP,"[[1890, 1930]]",[point],4453,point
+P-15,MSL,"[[1390, 1410]]",[point],2856,point
+A-5,SMAP,"[[2750, 2800]]",[point],4693,point
+E-13,SMAP,"[[5309, 5410], [5600, 5640], [6449, 6569]]","[contextual, contextual, contextual]",8640,contextual
+D-15,MSL,"[[1500, 2140]]",[point],2158,point
+P-10,MSL,"[[4590, 4720]]",[point],6100,point
+A-1,SMAP,"[[4690, 4774]]",[point],8640,point
+C-1,MSL,"[[550, 750], [2100, 2210]]","[point, contextual]",2264,point
+D-4,SMAP,"[[5225, 8472]]",[point],8473,point
+T-8,MSL,"[[870, 930], [1330, 1370]]","[contextual, contextual]",1519,contextual
+E-1,SMAP,"[[5000, 5030], [5610, 6086]]","[contextual, contextual]",8516,contextual
+T-13,MSL,"[[690, 790], [1900, 2050]]","[contextual, contextual]",2430,contextual
+D-14,MSL,"[[1630, 1650], [1800, 2000]]","[point, point]",2625,point
+M-2,MSL,"[[1110, 2250]]",[contextual],2277,contextual
+F-4,MSL,"[[2700, 2770]]",[point],3422,point
+E-6,SMAP,"[[5610, 5675]]",[point],8300,point
+E-7,SMAP,"[[5394, 5674]]",[point],8310,point
+G-4,SMAP,"[[4690, 4720]]",[point],7632,point
+E-2,SMAP,"[[5598, 6995]]",[point],8532,point
+P-11,MSL,"[[1778, 1898], [1238, 1344]]","[point, point]",3535,point
+D-1,SMAP,"[[5250, 8508]]",[point],8509,point
+M-5,MSL,"[[1250, 1550]]",[contextual],2303,contextual
+T-9,MSL,"[[780, 810], [890, 970]]","[point, point]",1096,point
+G-3,SMAP,"[[4200, 4250]]",[point],7907,point
+D-5,SMAP,"[[4800, 4850]]",[point],7628,point
+E-5,SMAP,"[[5600, 5920]]",[point],8294,point
+F-5,MSL,"[[3550, 3700]]",[point],3922,point
+M-3,MSL,"[[1250, 1500]]",[contextual],2127,contextual
+M-1,MSL,"[[1110, 2250]]",[contextual],2277,contextual
+G-7,SMAP,"[[3650, 3750], [5050, 5100], [7560, 7675]]","[contextual, point, contextual]",8029,contextual
+D-11,SMAP,"[[4270, 4330]]",[point],7431,point
+D-7,SMAP,"[[4940, 7641]]",[point],7642,point
+G-2,SMAP,"[[4030, 4070]]",[point],7361,point
+M-7,MSL,"[[940, 1040]]",[point],2156,point
+S-2,MSL,"[[900, 910]]",[point],1827,point
+A-8,SMAP,"[[4569, 8374]]",[contextual],8375,contextual
+M-6,MSL,"[[1850, 2030]]",[point],2049,point
+E-12,SMAP,"[[5610, 6141], [5000, 5050]]","[contextual, contextual]",8512,contextual
+D-2,SMAP,"[[4319, 8536]]",[point],8595,point
+A-3,SMAP,"[[4575, 4760]]",[contextual],8205,contextual
+D-12,SMAP,"[[5178, 7917]]",[point],7918,point
+G-1,SMAP,"[[4770, 4890]]",[contextual],8469,contextual
+T-2,SMAP,"[[6840, 8624]]",[point],8625,point
+G-6,SMAP,"[[5600, 5700]]",[point],8640,point
+D-16,MSL,"[[600, 1250]]",[contextual],2191,contextual
+M-4,MSL,"[[1250, 1500]]",[contextual],2038,contextual
+F-2,SMAP,"[[5669, 8625]]",[point],8626,point
